@@ -22,10 +22,11 @@
 <h3>System Requirements</h3>
 <p>OS: Linux or Windows. </p>
 
+<h2>Instalation:</h2>
+<p>Download this git repository, open "php-project-48" directory and type in command line "make install". </p>
 
 <h2>Instruction:</h2>
-<p>Download this git repository, open "php-project-48" directory and type in command line "make install". </p>
-<p>Then you can type the required format (stylish, plain or json) at the command prompt with files locations</p>
+<p>Using simple interface, you can type the required format (stylish, plain or json) at the command prompt with files locations to compare them and get the data in required format</p>
 
 
 
