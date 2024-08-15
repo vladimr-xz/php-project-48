@@ -22,7 +22,7 @@
 <h3>System Requirements</h3>
 <p>OS: Linux or Windows. </p>
 
-<h2>Instalation:</h2>
+<h2>Installation:</h2>
 <p>Download this git repository, open "php-project-48" directory and type in command line "make install". </p>
 
 <h2>Instruction:</h2>
